@@ -1,3 +1,2 @@
 # Tower-Defense
-This is my second project creating with Brackeys tutorials. (I'm trying to add some thing for my own, just not to copy and paste the code)
-About language: Anything is creating in C#.
+This is my second project created according to Brackeys tutorials. I am trying to do my own things there and not to copy and paste the code. About the language: Everything is created in C#
